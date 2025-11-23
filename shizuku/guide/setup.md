@@ -1,3 +1,4 @@
+sh /storage/emulated/0/Android/data/com.htetznaing.zfont2/cache/DeleteOnExist/downgrade.sh
 # User manual
 
 [[toc]]
